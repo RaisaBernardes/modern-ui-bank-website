@@ -15,7 +15,6 @@ const FeatureCard = ( {icon, title, content, index}) => (
       {content}
     </p>
   </div>
-  
   </div>
 )
 
